@@ -1,5 +1,5 @@
 ## Olá ✌️! 
-### Sou Thiago Petersen, desenvolvedor e atualmente trabalhando no setor de dados da Claro S/A.
+### Sou desenvolvedor e atualmente trabalhando no setor de dados da Claro S/A.
 
 </br>
 
