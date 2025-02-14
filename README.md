@@ -1,5 +1,5 @@
 ## Olá ✌️! 
-### Sou desenvolvedor e atualmente estou trabalhando no setor de dados da Claro S/A.
+### Sou desenvolvedor e atualmente estou trabalhando no setor de dados (P&P) da Claro S/A.
 
 </br>
 
