@@ -1,4 +1,4 @@
-## Olá ✌️! 
+## Olá 👍! 
 ### Sou desenvolvedor e atualmente estou trabalhando no setor de dados (P&P) da Claro S/A.
 
 </br>
