@@ -1,5 +1,4 @@
-## Olá 👍! 
-### Sou desenvolvedor atualmente trabalhando com dados.
+## Olá 👍!
 
 </br>
 
