@@ -1,13 +1,4 @@
 ## Olá 👍!
-
-</br>
-
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soupetersen&langs_count=8&hide=shell&theme=radical&layout=compact" />
- </a>
- </br>
- 
- ##
  
 <div></br>
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
